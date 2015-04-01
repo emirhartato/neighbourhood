@@ -1,0 +1,7 @@
+Location	Easting	Northing
+Christchurch	1570641	5180035
+Dunedin	1406260	4916908
+Tauranga	1879532	5824479
+Auckland	1757452	5920643
+Wellington	1748783	5427396
+Hamilton	1800925	5815491
